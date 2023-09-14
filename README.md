@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iznaen
 - 👀 I’m interested in cool stuff! Like programming for example :)
-- 🌱 I’m currently learning Lua
+- 🌱 I’m currently learning C++ and C#
 - 💞️ I’m not looking to collaborate right now
 - 📫 Reach me at: tanggapili.iznaen@gmail.com
 
